@@ -13,7 +13,7 @@ export default function Navbar() {
           
         <a class="navbar-brand text-warning" href="/main">CONVERTER</a>
         {/* <img src="https://play-lh.googleusercontent.com/eeqT5oAqwlaAmrELF5SSc6ol6scd4GxOgK7Hhfc6zgywGpZkhWkf2ddM8XFkOERto_ZK" class="rounded mx-auto w-2" alt="logo"></img> */}
-          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button className="navbar-toggler bg-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
